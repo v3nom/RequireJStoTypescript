@@ -1,0 +1,16 @@
+{
+    "version": "1.5.0",
+    "compilerOptions": {
+        "target": "es5",
+        "module": "amd",
+        "removeComments": false,
+        "sourceMap": false
+    },
+    "filesGlob": [
+        "./**/*.ts"
+    ],
+    "files": [
+        "./src/ts/advancedMathOperations.ts",
+        "./typed/demo.d.ts"
+    ]
+}

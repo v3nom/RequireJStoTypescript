@@ -1,2 +1,2 @@
-# RequireJStoTypescript
-Sample project showing how to incrementaly migrate RequireJS Javascript project to TypeScript
+# JavaScript RequireJS to TypeScript
+Sample project showing how to incrementally migrate RequireJS Javascript project to TypeScript
