@@ -2,16 +2,17 @@
 
 //declare var Logger:Logger;
 
-class AdvancedMathOperations{
+class AdvancedMathOperations {
   logger;
-  constructor(){
+  
+  constructor() {
     this.logger = new Logger();
   }
 
-  multiply(a:number, b:number){
+  multiply(a: number, b: number) {
     this.logger.log(`Operation ${a} * ${b}`)
-    return a*b;
+    return a * b;
   }
 }
 
-export =AdvancedMathOperations;
+export = AdvancedMathOperations;
